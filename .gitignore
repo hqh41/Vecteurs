@@ -1,0 +1,9 @@
+.DS_Store
+.cproject
+.idea/
+.project
+.settings/
+Debug/
+Release/
+cmake-build-debug/
+*.out
